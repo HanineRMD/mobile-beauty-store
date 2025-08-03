@@ -1,4 +1,4 @@
-# GlowUp-App (ou le nom que tu as choisi)
+# GlowUp-App 
 
 Une application mobile de e-commerce pour la vente de produits cosmétiques, développée avec React Native. Ce projet a été conçu pour offrir une expérience d'achat moderne, fluide et entièrement fonctionnelle sur mobile.
 
